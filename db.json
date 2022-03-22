@@ -1,11 +1,31 @@
 {
   "users": [
     {
-      "email": "kenzinho@mail.com",
-      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
-      "name": "Kenzinho",
-      "age": 38,
+      "email": "guisix16@gmail.com",
+      "password": "$2a$10$nAlRxfP4SkbvC/AJtz5/JO/z3LXHv1IcXhD5ZtoSNX.mMJb4Wm18W",
+      "name": "Guilherme",
+      "age": 19,
       "id": 1
+    }
+  ],
+  "itens": [
+    {
+      "itemName": "Playstation 5",
+      "price": 5000,
+      "id": 1
+    },
+    {
+      "itemName": "Xiaomi Redmi Note 10s",
+      "price": 1490,
+      "id": 2
+    }
+  ],
+  "teste": [
+    {
+      "aleatorio": 123456789
+    },
+    {
+      "aleatorio2": 12345678910
     }
   ]
 }
